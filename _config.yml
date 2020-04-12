@@ -4,7 +4,7 @@ title: ACgas.se – Fyll din AC
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Gör det själv kit för din AC i bilen. Fyll din AC själv? Det är enkelt!
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+url: http://acgas.se
 
 
 #-------------------------------
